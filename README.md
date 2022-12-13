@@ -106,7 +106,7 @@ Here are some visual and numerical results from the iMaterialist test dataset. R
 | 0.3414 | 54.69 | 61.92 | 
 
 
-Visual Results
+### Visual Results
 <div align="center">
     <img src="/images/result2.png" alt="example-result"/>
     <img src="/images/result3.png" alt="example-result"/>
@@ -116,7 +116,7 @@ Visual Results
 </div>
 
 
-## References
+# References
 
 * [iMaterialist (Fashion) 2020 at FGVC7](https://kaggle.com/competitions/imaterialist-fashion-2020-fgvc7)
 * [Based tensorflow repo model](https://github.com/tensorflow/models/tree/master/research/deeplab)
