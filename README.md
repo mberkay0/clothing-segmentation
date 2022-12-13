@@ -12,6 +12,18 @@
   </p>
 </p>
 
+<h3>
+  <strong>Table of Contents</strong>
+</h3>
+
+* [Introduction](#introduction)
+* [Training Details](#training-details)
+* [Jupyter Notebook](#jupyter-notebook) 
+* [Data](#data)
+* [Test Results](#test-results)
+* [References](#references)
+
+
 # Introduction
 
 Recently, the fashion industry has undergone a digital transformation by expanding on online platforms. Especially after the pandemic, online platforms have grown considerably commercially and as an area where data scientists can develop applications and provide benefits. This growth allows the development of compelling use cases of artificial intelligence in the fashion industry. For example, extracting clothing products and their related features from pictures can improve consumers' shopping experience and improve work efficiency for fashion workers. Therefore, the automatic labelling and visual analysis of clothing images in this area have attracted increasing attention. 
@@ -96,7 +108,7 @@ More detailed explanation [here](https://www.kaggle.com/c/imaterialist-fashion-2
 
 
 <!-- RESULTS -->
-## Test Result
+## Test Results
 
 Here are some visual and numerical results from the iMaterialist test dataset. Reasonably good results have been achieved in this dataset, which is complex, and labels are inconsistent.
 
