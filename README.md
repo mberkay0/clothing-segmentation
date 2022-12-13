@@ -16,12 +16,12 @@
   <strong>Table of Contents</strong>
 </h3>
 
-* [Introduction](#introduction)
-* [Training Details](#training-details)
-* [Jupyter Notebook](#jupyter-notebook) 
-* [Data](#data)
-* [Test Results](#test-results)
-* [References](#references)
+> * [Introduction](#introduction)
+> * [Training Details](#training-details)
+> * [Jupyter Notebook](#jupyter-notebook) 
+> * [Data](#data)
+> * [Test Results](#test-results)
+> * [References](#references)
 
 
 # Introduction
