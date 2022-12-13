@@ -35,6 +35,11 @@ Recently, the fashion industry has undergone a digital transformation by expandi
 
 # Training Details
 
+<div align="center">
+    <img src="/images/deeplabv3+.png" alt="example-result"/>
+</div>
+
+
 The DeepLab architecture has proven to be quite successful. This study used a pre-trained inceptionresnetv2 backbone network to parse clothing images into five main categories. 13520 images from iMaterialists (Fashion) 2020 FGVC7 for training have been resized to 256x256.  In the study, to reduce the complex structure of the data set, 46 different categories were converted into 5 main categories ( 'upper-body', 'lower-body', 'whole-body', 'feet' and 'accessories'). The Adam optimization method and categorical cross-entropy loss were used for model optimization.
 
 This project uses DeepLabV3 as a deep learning model. However, instead of having 1 channel output from DeepLabV3 for the typical noticeable semantic segmentation task, it outputs 5 channels of output, each representing 5 main categories.
@@ -47,6 +52,9 @@ You can train the DeepLabV3+ model. Click the button below to open it on Colab.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/mberkay0/regnet/blob/main/RegNet_(Self_Regulated_Network).ipynb)
 
+<div align="center">
+    <img src="/images/model_eval.png" alt="example-result"/>
+</div>
 
 
 # Data
