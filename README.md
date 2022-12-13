@@ -36,7 +36,7 @@ Recently, the fashion industry has undergone a digital transformation by expandi
 # Training Details
 
 <div align="center">
-    <img src="/images/deeplabv3+.png" width="55%" alt="example-result"/>
+    <img src="/images/deeplabv3+.png" width="50%" alt="example-result"/>
 </div>
 
 
@@ -53,7 +53,7 @@ You can train the DeepLabV3+ model. Click the button below to open it on Colab.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/mberkay0/regnet/blob/main/RegNet_(Self_Regulated_Network).ipynb)
 
 <div align="center">
-    <img src="/images/model_eval.png" width="55%" alt="example-result"/>
+    <img src="/images/model_eval.png" width="60%" alt="example-result"/>
 </div>
 
 
