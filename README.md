@@ -50,7 +50,7 @@ This project uses DeepLabV3 as a deep learning model. However, instead of having
 # Jupyter Notebook
 You can train the DeepLabV3+ model. Click the button below to open it on Colab.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/mberkay0/clothing-segmentation/blob/main/deepLabV3plus.ipynb
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/mberkay0/clothing-segmentation/blob/main/deepLabV3plus.ipynb)
 
 <div align="center">
     <img src="/images/model_eval.png" width="60%" alt="example-result"/>
